@@ -4,6 +4,7 @@ A new Flutter project.
 
 ## Screens
 
-![image](https://github.com/ProstoAndr/rick_and_morty/assets/94610766/a4450d35-6d9a-420d-bdc4-42a8f09d576e)
+![Screenshot](https://github.com/ProstoAndr/rick_and_morty/assets/94610766/85864f0f-9c71-4cd2-ae44-2fd7056e38b0)
+
 
 
